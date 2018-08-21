@@ -2,7 +2,7 @@
 IO20 an  extremely simple single-file PHP application designed to turn any PC into a high speed LAN/internet file server in just a few clicks. All you need is a webserver application with PHP support such as [XAMPP](https://www.apachefriends.org/index.html). Once it's running, just drag IO20's index.php into the public folder and visitors should automatically see it when they visit your IP in their web browser.
 
 # About
-* So much better than seeing an ugly "index-of".
+* So much better than seeing an ugly browser-generated "index-of", especially considering some browsers do a much worse job than others. There's no consistency in appearance or functionality across browsers and platforms. IO20 solves this by making every browser and platform exactly the same.
 * Single file - IO20 comes in the form of a single PHP file named "index.php". You drag this file into your webserver, connect, and IO20 handles the rest.
 * Uploading - If you'd prefer using the webpage (or would like others to upload to your folder) you can set an uploader password in the file.
 * Download or view - Every file has a "view" and "explicit download" button after it. Sometimes a browser doesn't know if you want to view/stream a file as opposed to directly download it. IO20 lets the user specify thanks to HTML5 forced download attribute.

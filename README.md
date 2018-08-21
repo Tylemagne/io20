@@ -11,3 +11,4 @@ IO20 an  extremely simple single-file PHP application designed to turn any devic
 # Tips
 * Keep the host machine connected to ethernet rather than WiFi. Over WiFi, the bandwidth could max out with as few as 3-4 machines accessing IO20. Gigabit is recommended.
 * Don't expect full speed when hosting on a Raspberry Pi. Not only is the SD card usually a bottleneck, but the ethernet adapter isn't as fast as one in a full-sized computer.
+* Open IO20 with a notepad and ensure your settings are how you want them. They're at the top.

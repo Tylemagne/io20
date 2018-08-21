@@ -1,5 +1,5 @@
 # What is Index Of 2.0?
-IO20 an  extremely simple single-file PHP application designed to turn any PC into a high speed LAN/internet file server in just a few clicks. All you need is a webserver application with PHP support such as XAMPP. Once it's running, just drag IO20's index.php into the public folder and visitors should automatically see it when they visit your IP in their web browser.
+IO20 an  extremely simple single-file PHP application designed to turn any PC into a high speed LAN/internet file server in just a few clicks. All you need is a webserver application with PHP support such as [XAMPP](https://www.apachefriends.org/index.html). Once it's running, just drag IO20's index.php into the public folder and visitors should automatically see it when they visit your IP in their web browser.
 
 # About
 * So much better than seeing an ugly "index-of".

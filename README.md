@@ -19,7 +19,7 @@ You need to install a webserver application on your machine. I recommend XAMPP a
 
 # License
 
-Although the project is MIT licensed, the icons contained in the file are a special set of Fugue icons. If you wish to remove the Fugue icons from the bottom of the file, you will need to also replace the icons contained in the file, as it's CC attribution.
+Although the project is MIT licensed, the icons contained in the file are a special set of Fugue icons. If you wish to remove the Fugue icons link from the bottom of the page, you will need to also replace the icons contained in the file, as it's a Creative Commons attribution.
 
 # Contributor Resources
 * [Simplest PHP file upload using the POST method](https://gist.github.com/taterbase/2688850)

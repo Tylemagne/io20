@@ -8,6 +8,9 @@ IO20 an  extremely simple single-file PHP application designed to turn any devic
 * Download or view - Every file has a "view" and "explicit download" button after it. Sometimes a browser doesn't know if you want to view/stream a file as opposed to directly download it. IO20 lets the user specify thanks to HTML5 forced download attribute.
 * Easy - As the webmaster, all you have to do is drop IO20 into the folder. Visitors will automatically see a generated file list of the relative directory.
 
+# How to install
+You need to install a webserver application on your machine. I recommend XAMPP as it's easy. I presume you're using Windows, and XAMPP is great on Windows. Install PHP and Apache. After it's installed, just hit "start" on your Apache server in the XAMPP control panel. Navigate to xampp directory/htocs (this is the public webserver folder) and delete everything. Then, paste io20 (it's named "index.php" for the sake of webserver friendliness) in the empty directory. Type your public IP address into the address bar of any web browser from any device on the network (make sure you let Apache through Windows Firewall) and you should see your server. If you don't know your IP, open CMD and type "ipconfig". It's the one that starts with 192.168 and doesn't end in 1.
+
 # Tips
 * MAKE SURE you enable uploading in php.ini - uploading will NOT work without this.
 * Keep the host machine connected to ethernet rather than WiFi. Over WiFi, the bandwidth could max out with as few as 3-4 machines accessing IO20. Gigabit is recommended.

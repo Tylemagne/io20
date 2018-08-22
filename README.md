@@ -1,5 +1,5 @@
 <p align="center" style="padding: none; margin:none;">
-    <img src="https://i.imgur.com/NpJCPEc.png" width="600px">
+    <img src="https://i.imgur.com/NpJCPEc.png" width="627px">
 </p>
 
 # What is Index Of 2.0?

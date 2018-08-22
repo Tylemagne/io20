@@ -1,5 +1,5 @@
 <p align="center" style="padding: none; margin:none;">
-    <img src="https://i.imgur.com/NpJCPEc.png" width="627px">
+    <img src="https://i.imgur.com/NpJCPEc.png" width="627px"><br>
     An example screenshot of io20 being used for a LAN party.
 </p>
 

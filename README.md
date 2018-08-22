@@ -17,6 +17,13 @@ You need to install a webserver application on your machine. I recommend XAMPP a
 * Don't expect full speed when hosting on a Raspberry Pi. Not only is the SD card usually a bottleneck, but the ethernet adapter isn't as fast as one in a full-sized computer.
 * Open IO20 with a notepad and ensure your settings are how you want them. They're at the top.
 
+# Todo
+* Overwrite protection on upload
+* GET var sanitation
+* Cleanup and optimization
+* Visual improvements
+* More file extension image support
+
 # License
 
 Although the project is MIT licensed, the icons contained in the file are a special set of Fugue icons. If you wish to remove the Fugue icons link from the bottom of the page, you will need to also replace the icons contained in the file, as it's a Creative Commons attribution.
